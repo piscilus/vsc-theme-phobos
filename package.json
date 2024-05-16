@@ -1,31 +1,34 @@
 {
-  "name": "phobos",
-  "displayName": "Phobos",
-  "description": "A calm dark theme with yellow elements.",
-  "version": "0.1.0",
-  "galleryBanner": {
-      "color": "#111111",
-      "theme": "dark"
-  },
-  "publisher": "piscilus",
-  "author": {
-      "name": "Julian Krämer",
-      "url": "https://github.com/piscilus",
-      "email": "piscilus@gmail.com"
-  },
-  "engines": {
-    "vscode": "^1.89.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Phobos",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Phobos-color-theme.json"
-      }
-    ]
-  }
+    "name": "phobos",
+    "displayName": "Phobos",
+    "description": "A calm dark theme with yellow elements.",
+    "version": "0.1.0",
+    "galleryBanner": {
+        "color": "#111111",
+        "theme": "dark"
+    },
+    "publisher": "piscilus",
+    "author": {
+        "name": "Julian Krämer",
+        "url": "https://github.com/piscilus",
+        "email": "piscilus@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/piscilus/vsc-theme-phobos"
+    },
+    "engines": {
+        "vscode": "^1.89.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Phobos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/phobos-color-theme.json"
+            }
+        ]
+    }
 }
