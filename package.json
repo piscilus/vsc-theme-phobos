@@ -3,24 +3,35 @@
     "displayName": "Phobos",
     "description": "A calm dark theme with yellow elements.",
     "version": "0.1.0",
-    "galleryBanner": {
-        "color": "#111111",
-        "theme": "dark"
-    },
     "publisher": "piscilus",
     "author": {
         "name": "Julian Krämer",
         "url": "https://github.com/piscilus",
         "email": "piscilus@gmail.com"
     },
+    "homepage": "https://github.com/piscilus/vsc-theme-phobos",
     "repository": {
+        "type": "git",
         "url": "https://github.com/piscilus/vsc-theme-phobos"
     },
+    "bugs": {
+        "url": "https://github.com/piscilus/vsc-theme-phobos/issues"
+    },
+    "license": "MIT",
     "engines": {
         "vscode": "^1.89.0"
     },
+    "galleryBanner": {
+        "color": "#111111",
+        "theme": "dark"
+    },
+    "icon": "./assets/logo_y.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "yellow"
     ],
     "contributes": {
         "themes": [
