@@ -1,8 +1,16 @@
 # Phobos - A dark theme for Visual Studio Code
 
+![GitHub License](https://img.shields.io/github/license/piscilus/vsc-theme-phobos)
+
 **Work in progress...**
 
-Elements that need to be checked have a bright pink: #fa00af
+To do:
+
+- [ ] chat.*
+- [ ] inlineChat.*
+- [ ] interactive.*
+
+Elements that need to be checked have a bright pink: #FA00AF
 
 ---
 
@@ -17,16 +25,17 @@ Minimal but supportive syntax highlighting.
 Tested with:
 
 - [ ] C
-- [ ] C++
-- [ ] JSON
-- [ ] HTML
-- [ ] CSS
-- [ ] XML
-- [ ] Rust
-- [ ] Python
 - [ ] C#
+- [ ] C++
+- [ ] CSS
+- [ ] HTML
+- [ ] JSON
+- [ ] makefile
 - [ ] Markdown
+- [ ] Python
+- [ ] Rust
 - [ ] TOML
+- [ ] XML
 - [ ] YML
 - [ ] ...
 
@@ -46,3 +55,5 @@ Tested with:
 <https://code.visualstudio.com/api/references/theme-color>
 
 <https://encycolorpedia.de/faca30>
+
+<https://code.visualstudio.com/api/working-with-extensions/publishing-extension>
